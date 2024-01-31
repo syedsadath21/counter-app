@@ -1,0 +1,20 @@
+.app-conatiner{
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 50px 20px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 10px;
+}
+#app-btn{
+    margin: 0 10px;
+    font-size: 18px;
+}
+h1{
+    font-size: 40px;
+    line-height: 1.2;
+}
+h2{
+    font-size: 80px;
+    line-height: 1.2;
+}
